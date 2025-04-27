@@ -1,5 +1,4 @@
 ## This is completed you do not need to alter
-###############################################
 ---
 apiVersion: networking.k8s.io/v1
 kind: Ingress
